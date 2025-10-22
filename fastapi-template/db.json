@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "price": 1499.99,
+    "quantity": 50
+  },
+  {
+    "id": 2,
+    "name": "Smartphone X",
+    "price": 899.50,
+    "quantity": 120
+  }
+]
